@@ -12,10 +12,10 @@ a = HCSR04(triq,eqho)
 
 # Wi-Fi ağ bilgilerini girin
 WIFI_SSID = "Galaxy"
-WIFI_PASSWORD = "12365432"
+WIFI_PASSWORD = "123456"
 
 # Bağlanılacak sunucunun IP adresi ve port numarası
-SERVER_IP = "192.168.91.114"  # Bilgisayarınızın IP adresi
+SERVER_IP = "192.168.1.1"  # Bilgisayarınızın IP adresi
 SERVER_PORT = 80
 
 # Wi-Fi istemcisini başlat
